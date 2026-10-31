@@ -1,0 +1,17 @@
+{
+  "blueTop": {
+    "id": 1,
+    "nome": "Blue Top",
+    "categoria": "Category: Women > Tops",
+    "preco": "Rs. 500",
+    "disponibilidade": "Availability: In Stock",
+    "condicao": "Condition: New",
+    "marca": "Brand: Polo"
+  },
+  "menTshirt": {
+    "id": 2,
+    "nome": "Men Tshirt",
+    "preco": "Rs. 400"
+  },
+  "termoBusca": "Jeans"
+}
